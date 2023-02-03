@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zelnicek
-- 👀 I’m interested in Java programming 
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on Junior Java Project
+- 👀 I’m interested in Java programming and Pyhthon
+
 
 <!---
 zelnicek/zelnicek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
